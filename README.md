@@ -1,6 +1,12 @@
 https://www.youtube.com/watch?v=9LO_sy_TVG8&ab_channel=AnushkaTejeswi
 Some challenges I faced was getting the actual stock data to enter into my program and have the stock prices change. Another main challenge we faced was getting the graph to update with the prices. Overall, we had a good time learning how to code this and watching everything come together.
 
+Credit:
+“C$50 Finance - CS50x.” Harvard.edu, 2020, cs50.harvard.edu/x/2020/tracks/web/finance/.
+
+‌
+
+
 import time
 import pandas as pd
 import matplotlib.pyplot as plt
